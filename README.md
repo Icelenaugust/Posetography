@@ -34,6 +34,8 @@ The phone application provides pose guides and and on the spot pose simulations 
 Our application solves this problem by implementing features that require access to the phone’s camera. By having rough outlines of poses and text guides on the camera’s preview screen, it allows users to be guided in the photo taking process. Pose simulations also provide users with guidelines on how to best position the camera and model in the frame.
 ### Video
 [Click here to watch video demo](https://www.youtube.com/watch?v=_3o59zDYDwM)
+### Poster
+[Click here to view the poster](https://drive.google.com/file/d/1ZZoFnDKMAmEbEelLIa52rvr6W1P_Gbsl/view?usp=sharing)
 ### Features and Testing
 [Click here to view a detailed README](https://docs.google.com/document/d/1yQKclV_UXyTj4nJ7RexPVQPAYWvlA3EojCv5BtohgFM/edit?usp=sharing)
 ### Authors
