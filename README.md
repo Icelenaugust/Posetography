@@ -9,7 +9,7 @@ We hope to make the process of taking a nice photo easier and quicker through a 
 1. As a photo-taker or photographer, I want the process of photo-taking to be quick and stress-free.
 1. As a photographer, I want to be able to plan and prepare for my photoshoots in advance.
 ### Scope of Project
-The phone application provides pose guides and and on the spot pose simulations for users to take photos within the application. The application also includes features like the weather feature that informs users of the current weather as well as sunrise and sunset timings on a certain day to help them plan their photoshoots ahead. Users can also create an account within Posetography to share their photos and poses as well as gain inspiration from friends and other users.
+The phone application provides pose guides and on the spot pose simulations for users to take photos within the application. The application also includes features like the weather feature that informs users of the current weather as well as sunrise and sunset timings on a certain day to help them plan their photoshoots ahead. Users can also create an account within Posetography to share their photos and poses as well as gain inspiration from friends and other users.
 ### Features
 1. Weather
    * Updates the weather information of the current location
