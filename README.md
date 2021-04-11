@@ -39,7 +39,7 @@ Our application solves this problem by implementing features that require access
 ### Features and Testing
 [Click here to view a detailed README](https://docs.google.com/document/d/1yQKclV_UXyTj4nJ7RexPVQPAYWvlA3EojCv5BtohgFM/edit?usp=sharing)
 ### Authors
-* [Ding Youjia](https://github.com/Icelenaugust)
+* [Danelynn Ding](https://github.com/Icelenaugust)
 * [Tasha Marion Wan Hui Lin](https://github.com/tashawan23)
 ### Acknowledgements
 This project was done under NUS Orbital 2020
